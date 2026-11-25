@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One-Star Review of Something Essential — entry: a one-star review of the Sun.
 
-Writes exactly one line, 132 characters, no trailing newline, to
+Writes exactly one line, 153 characters, no trailing newline, to
 /output/entry.txt. Standard library only.
 """
 
@@ -10,8 +10,8 @@ import shutil
 
 REVIEW = (
     "One star for the Sun. Shows up uninvited every morning, "
-    "no snooze button, burns my neck. Would not recommend. "
-    "Will be back tomorrow."
+    "no snooze button, no customer service, burns my neck. "
+    "Would not recommend. Will be back tomorrow."
 )
 
 
